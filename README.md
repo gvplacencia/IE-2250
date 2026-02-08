@@ -7,7 +7,7 @@ Provides basic files and setup commands for python
 ## Python Modules for Data Engineering/Science
 Useful collection of libraries for working with data
 
-## MT Quantitative User Performance Analysis Demo
+## MTask Quantitative User Performance Analysis Demo
 For doing Multitasking Lab
 
 ## Data Visualization.ipynb
