@@ -7,8 +7,8 @@ Provides basic files and setup commands for python
 ## Python Modules for Data Engineering/Science
 Useful collection of libraries for working with data
 
-## Multitasking Quantitative User Performance Analysis Demo
+## MT Quantitative User Performance Analysis Demo
 For doing Multitasking Lab
 
-## Visualization Notebook.ipynb
+## Data Visualization.ipynb
 A selection of basic visualization tools in matplotlib and seaborn
